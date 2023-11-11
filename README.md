@@ -1,6 +1,6 @@
 ### Hi there, I'm Sameer 👋
 
-## I'm an aspiring Software Engineer with a passion for learning new technologies.
+#### I'm an aspiring Software Engineer with a passion for learning new technologies.
 <!--
 **SameerMo/SameerMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
